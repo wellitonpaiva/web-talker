@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: wellitonpaiva/web-talker:latest
+  repository: wellitonpaiva/web-talker
   pullPolicy: IfNotPresent
   tag: "latest"
 
